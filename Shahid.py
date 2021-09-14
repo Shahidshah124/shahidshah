@@ -37,9 +37,9 @@ def jalan(z):
 		time.sleep(00000.1)
 ##### LOGO #####
 logo = """
-   Asif Javed
+   shahid shah
    ▄︻̷̿┻̿═━一
-   THE ANONYMOUS lovehacker TRICKER 
+   THE ANONYMOUS  shahid shah
    THE LEGEND ℒℴνℯ
    THE GAME CHANGER ℒℴνℯ
    shahid shah
